@@ -14,6 +14,7 @@
 		6F143A432587938C001E24F6 /* CompositePattern.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6F143A412587938C001E24F6 /* CompositePattern.xcdatamodeld */; };
 		6F143A452587938E001E24F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F143A442587938E001E24F6 /* Assets.xcassets */; };
 		6F143A482587938E001E24F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F143A462587938E001E24F6 /* LaunchScreen.storyboard */; };
+		6F143A50258793A0001E24F6 /* CompositePattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F143A4F258793A0001E24F6 /* CompositePattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6F143A442587938E001E24F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F143A472587938E001E24F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F143A492587938E001E24F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F143A4F258793A0001E24F6 /* CompositePattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositePattern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				6F143A3A2587938C001E24F6 /* SceneDelegate.swift */,
 				6F143A3C2587938C001E24F6 /* ViewController.swift */,
 				6F143A3E2587938C001E24F6 /* Main.storyboard */,
+				6F143A4F258793A0001E24F6 /* CompositePattern.swift */,
 				6F143A442587938E001E24F6 /* Assets.xcassets */,
 				6F143A462587938E001E24F6 /* LaunchScreen.storyboard */,
 				6F143A492587938E001E24F6 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6F143A3D2587938C001E24F6 /* ViewController.swift in Sources */,
+				6F143A50258793A0001E24F6 /* CompositePattern.swift in Sources */,
 				6F143A392587938C001E24F6 /* AppDelegate.swift in Sources */,
 				6F143A432587938C001E24F6 /* CompositePattern.xcdatamodeld in Sources */,
 				6F143A3B2587938C001E24F6 /* SceneDelegate.swift in Sources */,

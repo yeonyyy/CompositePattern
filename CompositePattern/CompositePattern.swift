@@ -7,7 +7,7 @@
 //
 
 import Foundation
-test
+
 protocol FileSystem {
     func getSize()->Int
     func remove()
